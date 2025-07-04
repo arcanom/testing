@@ -1,0 +1,11 @@
+{
+   "semi": true,                  // Ajoute des points-virgules
+  "singleQuote": true,          // Utilise des guillemets simples
+  "tabWidth": 2,                // Indentation de 2 espaces
+  "useTabs": false,             // Utilise des espaces plutôt que des tabulations
+  "trailingComma": "es5",       // Ajoute des virgules finales là où c’est valide en ES5
+  "printWidth": 100,            // Largeur maximale par ligne
+  "bracketSpacing": true,       // Ajoute un espace à l'intérieur des accolades
+  "arrowParens": "avoid",       // Omet les parenthèses pour les fonctions fléchées avec un seul paramètre
+  "endOfLine": "lf"             // Utilise LF pour la fin de ligne
+}

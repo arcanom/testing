@@ -2,7 +2,7 @@ import { defineConfig } from 'eslint/config';
 
 export default defineConfig({
   extends: [
-    'xo',
+    "react-app"
   ],
   rules: {
     semi: ['error', 'always'],               // impose les points-virgules
